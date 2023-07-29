@@ -1,6 +1,8 @@
 # IMDB_clone
 Frontend test: IMDB clone
 
+Hosted Link: https://aman-1704.github.io/IMDB_clone/
+
  I Created a mini IMDB clone app. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any CSS framework like Bootstrap).
 
  Features (No need for extra features, just make the listed features):
